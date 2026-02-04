@@ -35,8 +35,7 @@ class Instagram:
         print("The last comment is deleted ",temp_comment)
 
 
-reel1=Instagram("dancing","dancing with friends","John","New York")
-# comment=[]
+reel1=Instagram("writing","writing a notes","Poorvi","Banglore")
 
 reel1.add_comments("comment1")
 reel1.display_comment()
